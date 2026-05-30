@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailserify",
+        "uuid": 662590,
+        "checksum": "uyz0fp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
